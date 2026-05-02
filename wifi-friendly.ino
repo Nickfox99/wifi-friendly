@@ -52,7 +52,7 @@ WebServer server(80);
 DNSServer dnsServer;
 IPAddress apIP(192, 168, 4, 1);
 IPAddress netMsk(255, 255, 255, 0);
-const char* apName = "尼克狐尼克";
+const char* apName = "极客狐尼克";
 
 // ================= 小车枚举/全局变量/配置参数 =================
 enum RoboEmotion : uint8_t {
@@ -1030,7 +1030,7 @@ void handleRoot() {
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-<title>尼克狐尼克控制</title>
+<title>极客狐尼克控制</title>
 <style>
 /* ==================== 全局样式 ==================== */
 * {
@@ -1282,7 +1282,7 @@ h1 {
 <div class="container">
   <!-- 头部区域：标题 + 重新配网按钮 -->
   <div class="header">
-    <h1>🦊 尼克狐尼克</h1>
+    <h1>🦊 极客狐尼克</h1>
     <a href="/reconfig" class="reconfig-btn" onclick="return confirm('确定重新配网吗？')">⚙️ 配网</a>
   </div>
 
