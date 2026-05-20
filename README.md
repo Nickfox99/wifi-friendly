@@ -51,6 +51,7 @@
 | I2C SCL | GPIO 8 | OLED时钟 |
 | UART1 RX | GPIO 20 | 语音模块接收 |
 | UART1 TX | GPIO 21 | 语音模块发送 |
+<img width="2206" height="1315" alt="IMG_0620 (2)" src="https://github.com/user-attachments/assets/ed99a587-3707-4f9c-8584-ec102f3a3811" />
 
 ## 📦 依赖库
 
