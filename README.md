@@ -3,6 +3,7 @@
 这是一个基于ESP32的智能小车控制系统，集成了时钟显示、语音控制、网页控制、表情动画等多种功能。
 
 ## 📋 功能特性
+<img width="1080" height="2408" alt="Screenshot_20260404_221033 (2)" src="https://github.com/user-attachments/assets/980d0a89-9ab7-4c08-bbb4-51e23c1106bb" />
 
 ### 🚗 智能小车模式
 - **方向控制**：前进、后退、左转、右转、停止
